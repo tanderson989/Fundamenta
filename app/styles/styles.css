@@ -9,19 +9,23 @@ body {
 
 .header {
   color: white;
+  padding: 0.5rem;
   background-color: #656768;
-  height: 10%;
 }
 
 .header-main-text {
+    margin: 0 0.5rem 0 1rem;
+    display: inline-block;
     font-size: 2rem;
 }
 
 .header-sub-text {
+    display: inline-block;
     font-size: 0.75rem;
 }
 
 .progressBar {
+    color: white;
+    padding: 0.25rem;
     background-color: #74c4ed;
-    height: 7%;
 }
