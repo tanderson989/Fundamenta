@@ -1,0 +1,27 @@
+body {
+    height: 100%;
+    font-family: Arial;
+}
+
+.app {
+    height: 100%;
+}
+
+.header {
+  color: white;
+  background-color: #656768;
+  height: 10%;
+}
+
+.header-main-text {
+    font-size: 2rem;
+}
+
+.header-sub-text {
+    font-size: 0.75rem;
+}
+
+.progressBar {
+    background-color: #74c4ed;
+    height: 7%;
+}

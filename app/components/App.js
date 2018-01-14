@@ -1,15 +1,18 @@
 import React from 'react';
+import Header from './Header';
+import ProgressBar from './ProgressBar';
 
-class HelloWorld extends React.Component {
+export default class Application extends React.Component {
     constructor() {
         super();
     }
 
     render() {
         return (
-            <div>HELLO WORLD!</div>
+            <div>
+                <Header/>
+                <ProgressBar/>
+            </div>
         )
     }
 }
-
-export default HelloWorld;
