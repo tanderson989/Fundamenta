@@ -1,6 +1,7 @@
 body {
     height: 100%;
     font-family: Arial;
+    margin: 0;
 }
 
 .app {
@@ -10,7 +11,7 @@ body {
 .header {
   color: white;
   padding: 0.5rem;
-  background-color: #656768;
+  background-color: #4b4d51;
 }
 
 .header-main-text {
@@ -27,5 +28,5 @@ body {
 .progressBar {
     color: white;
     padding: 0.25rem;
-    background-color: #74c4ed;
+    background-color: #5fbdfc;
 }
